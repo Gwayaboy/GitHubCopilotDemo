@@ -8,10 +8,14 @@
 # Steps
 
 - Task 1:
-    Install the Azure Functions Core Tool.
+    Install the Azure Functions Core Tool with the help of Github Copilot Chat (preview)?
 
-    Ask Github Copilot Chat:
-    How to install the latest Azure Functions SDK and tooling with npm to scafflold a HTTP triggered python function?
+    1. How to install the latest Azure Functions SDK and tooling with npm to scafflold a HTTP triggered python function?
     
+        ![](/img/installFunc.png)
+
+    2. How can I test my HTTP triggered Python function locally?
+
+        ![](/img/testFuncLocally.png)
 
 
