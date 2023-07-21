@@ -41,4 +41,9 @@
         '''
         ```
 
+- Task 2:
+
+    - Ask GitHub co-pilot 
+        write unit tests for the Azure function and mock the response from an external API
+
 
